@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+😘 I am an FrontEnd engineer also a undergraduate student.
+🌱 I’m currently learning Vue & Node.js.
+📫 How to reach me: 14560923xjw@gamil.com & Wechat:hutetAugenster.
+---
+**welcome 😄**
 <!--
 **Mikejiawei/Mikejiawei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
