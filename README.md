@@ -1,7 +1,9 @@
 ### Hi there 👋
-😘 I am an FrontEnd engineer also a undergraduate student.
-🌱 I’m currently learning Vue & Node.js.
-📫 How to reach me: 14560923xjw@gamil.com & Wechat:hutetAugenster.
+😘 I am an FrontEnd engineer also a undergraduate student.  
+🎯 I am currently learning Vue.js & Node.js...  
+📫 How to reach me: Wechat:hutetAugenster
+
+
 ---
 **welcome 😄**
 <!--
