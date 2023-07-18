@@ -1,7 +1,10 @@
 ### Hi there 👋
-😘 I am an FrontEnd engineer also a undergraduate student.  
-🎯 I am currently learning Vue.js & Node.js...  
-📫 How to reach me: Wechat:hutetAugenster
+😘 I'm currently a undergraduate student from UCAS.  
+🎯 I am currently learning Linux & RISC-V...  
+📫 How to reach me: email | xiejiawei21@mails.ucas.ac.cn
+⚡ I have a passion for programming and strive to make the digital world more human-friendly. 
+😄 I always keep things simple and focus on operating system development and computer networking technology. 
+Welcome to contact me.
 
 
 ---
